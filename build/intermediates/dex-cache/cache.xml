@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pablo\Google Drive\AndroidProjects\ClientTeleestetoscopio2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\pablo\Google Drive\AndroidProjects\ClientTeleestetoscopio2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a11c8eaf61d19d4001bc5c3e3563a0e4261c2306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pablo\Google Drive\AndroidProjects\ClientTeleestetoscopio2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="874a8f39ac8cd6e84b5db12c8f676c9072052a0c">
+        <dex dex="C:\Users\pablo\Google Drive\AndroidProjects\ClientTeleestetoscopio2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_67875000e6b9a3a29b6398fe00d90323a3479e51\classes.dex" />
+    </item>
+
+</items>
